@@ -4,7 +4,8 @@
       "root": "",
       "fonts": "fonts",
       "sprites": "sprites",
-      "styles": "styles"
+      "styles": "styles",
+      "mbtiles": "data"
     },
     "serveAllFonts": true,
     "serveAllStyles": true,
@@ -20,6 +21,9 @@
   "data": {
     "protomaps": {
       "pmtiles": "http://192.168.1.198:801/world.pmtiles"
+    },
+    "openmaptiles": {
+      "mbtiles": "osm-2020-02-10-v3.11_asia_china.mbtiles"
     }
   }
 }
