@@ -20,10 +20,16 @@
   },
   "data": {
     "protomaps": {
-      "pmtiles": "http://192.168.1.198:801/world.pmtiles"
+      "pmtiles": "protomaps-planet-20260305.pmtiles"
     },
     "openmaptiles": {
       "mbtiles": "osm-2020-02-10-v3.11_asia_china.mbtiles"
+    },
+    "openfreemap": {
+      "mbtiles": "openfreemap-20260325.mbtiles"
+    },
+    "natural_earth": {
+      "mbtiles": "natural_earth.mbtiles"
     }
   }
 }
