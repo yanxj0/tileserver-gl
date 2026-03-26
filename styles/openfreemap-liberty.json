@@ -1,6 +1,12 @@
 {
   "version": 8,
   "sources": {
+    "ne2_shaded": {
+      "maxzoom": 6,
+      "tileSize": 256,
+      "url": "mbtiles://natural_earth",
+      "type": "raster"
+    },
     "openmaptiles": {
       "type": "vector",
       "url": "mbtiles://openfreemap"
